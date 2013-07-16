@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Scenes">
+      <UniqueIdentifier>{57516470-02fe-49c8-b5b7-61ddc02c4ff6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Objects">
+      <UniqueIdentifier>{945bfecf-1896-41ff-977b-1132b38072a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scenes">
+      <UniqueIdentifier>{324a38d2-feff-4626-978f-5bd7a2f60acd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Objects">
+      <UniqueIdentifier>{21465d6c-701a-4ba0-b3a5-198dd85ea527}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Objectives">
+      <UniqueIdentifier>{8ee412da-c7c8-4da1-be3a-34bd38479524}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Objects\GUI">
+      <UniqueIdentifier>{0e36b516-61d4-41b9-be8a-0354dbb65ca0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Objects\GUI">
+      <UniqueIdentifier>{a20e948a-9eaf-43f7-b9b5-f8b9f54362f7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shader_Utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorOperations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StringUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplaceMentMappingScene.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="FBOPostProcessScene.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="GL_AccumScene.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="TestScene.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="TestScene1.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Emitter.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="myTimer.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalMapsScene.h">
+      <Filter>Header Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectiveManager.h">
+      <Filter>Header Files\Objectives</Filter>
+    </ClInclude>
+    <ClInclude Include="CountObjective.h">
+      <Filter>Header Files\Objectives</Filter>
+    </ClInclude>
+    <ClInclude Include="Upgrades.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>Header Files\Objects\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI_Object.h">
+      <Filter>Header Files\Objects\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI_Slider.h">
+      <Filter>Header Files\Objects\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI_Toggle.h">
+      <Filter>Header Files\Objects\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI_Button.h">
+      <Filter>Header Files\Objects\GUI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Quaternion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shader_Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorOperations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplaceMentMappingScene.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="FBOPostProcessScene.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="GL_AccumScene.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalMapsScene.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="TestScene.cpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="myTimer.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Emitter.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="CountObjective.cpp">
+      <Filter>Header Files\Objectives</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectiveManager.cpp">
+      <Filter>Header Files\Objectives</Filter>
+    </ClCompile>
+    <ClCompile Include="Upgrades.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI.cpp">
+      <Filter>Source Files\Objects\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI_Object.cpp">
+      <Filter>Source Files\Objects\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI_Button.cpp">
+      <Filter>Source Files\Objects\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI_Slider.cpp">
+      <Filter>Source Files\Objects\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI_Toggle.cpp">
+      <Filter>Source Files\Objects\GUI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resources\Shaders\BasicMorph.v.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\BasicMorphNoLights.f.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\basicTexLights.f.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\basicTexLightsMorph.v.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\Basic.f.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\Basic.v.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\BasicMorph.f.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\FragmentLights.f.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\SolidColour.f.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\SolidColour.v.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\ONormal.f.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\TNormal.f.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\TNormal.v.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\ONormal.v.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\Basic120.f.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\Basic120.v.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\Toon.f.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\Toon.v.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\Displace.v.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\SinDisplace.v.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bin\Debug\Resources\Shaders\Shadow120.f.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

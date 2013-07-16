@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Camera">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoQCAAAEAAAQsgDQ4AIAeBEAAAEAAyAAAEAAAgAAgAA=</HashCode>
+      <FileName>Camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Particle">
+    <Position X="14" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAACAAAAAIEIAAgAAAAAwAIQAAAKBEEAQA=</HashCode>
+      <FileName>Emitter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emitter">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAoAAIAABAABAAAAAAgAAAAEAAE=</HashCode>
+      <FileName>Emitter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entity">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACBIAwAgAAAIAACIAIAIJACACAQAmIChAEAAkQEgAQ=</HashCode>
+      <FileName>Entity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAABABAAAAAAAQAQAIAIAAAAAAAQgB8AQBxAAEEAAA=</HashCode>
+      <FileName>GUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slider">
+    <Position X="17.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAIBCgAAAAQCAIAIAAIEAAAAAQAA8AQDlAAAkBAA=</HashCode>
+      <FileName>GUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI">
+    <Position X="19.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAEACAAAAAAAQAYBIAABhEBBAAQgA4QQBhCAAmAAA=</HashCode>
+      <FileName>GUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mouse">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAgAAAAQAAAAAAACACQAAAEAAA=</HashCode>
+      <FileName>Input.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Input">
+    <Position X="12.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQAIAAAAAAAAAEAAEAAAAAAQAAAAAAAEAAA=</HashCode>
+      <FileName>Input.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Light">
+    <Position X="14" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAAgQKAAACAAACoAiBAAhYAAAAIAAAgAAAAAEQUIgA=</HashCode>
+      <FileName>Light.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model">
+    <Position X="15.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>4QAAAIAQEIAAEGAASAIgAAiAAAAEAAABAIgAAEBAACA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myTimer">
+    <Position X="10.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAAEgAAAKABgAAAgAkBAIgEEAAAAAAQAAAAEIAA=</HashCode>
+      <FileName>myTimer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quaternion">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABISAgAAAEAIAAAAAAAAEAAEAQggAAAQAAA=</HashCode>
+      <FileName>Quaternion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scene">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ChCAAAADBAAAAAAAgBIABAAAQIIEQBIhQAAACAAkABA=</HashCode>
+      <FileName>Scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shader">
+    <Position X="17.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAABAkAAAJAAACAAAAgAIAAAAAAgAIBABAAQAACgAgE=</HashCode>
+      <FileName>shader_Utils.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManager">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAICAQAAAAAgAAIAAgAJAAAAgEAAkAAA=</HashCode>
+      <FileName>Sound.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestScene">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQABAAAAAAIgAAKYAAhEIAAIggAIAAEAAAAAEAAA=</HashCode>
+      <FileName>TestScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextureUtils">
+    <Position X="8" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAA=</HashCode>
+      <FileName>TextureUtils.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector3f">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAAAAAAQAAAAAEQIAQAAAACAAIAAAABggQAAAAA=</HashCode>
+      <FileName>VectorOperations.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowInfo">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAABAAAEAggAIQAwAAaAAAAgAAAQAAEACCCAAAAAAA=</HashCode>
+      <FileName>WindowInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="_AnimTime">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAACAAAAAACAAAAAAAQAAQAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Entity.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MouseButton">
+    <Position X="12" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAAAAQAACAAAABAAAAAAIAAAgAAAAAAggAAAFgAA=</HashCode>
+      <FileName>Input.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Material">
+    <Position X="6" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAABAAAAAAAAAAAAAEAAgAgAAQAAAAAEA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Face">
+    <Position X="4" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAIAAAIAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="xyz">
+    <Position X="6" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABgAQAAAAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="UVmap">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAABIAAAAAAAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Uni_Light">
+    <Position X="0.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAIEAAAAAAABAAAAAABAAAA=</HashCode>
+      <FileName>shader_Utils.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Attributes">
+    <Position X="4" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAABAAAABAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>shader_Utils.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Uniforms">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAACAAAACAAIAAgAAAAAAAEAIBBA=</HashCode>
+      <FileName>shader_Utils.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Sound">
+    <Position X="8" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAACAAAAAIEACAACEAAAABAQQAAAAAAA=</HashCode>
+      <FileName>Sound.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Listener">
+    <Position X="8" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgACAAAAAAAAAAQACAAACAAAAEAAI=</HashCode>
+      <FileName>Sound.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="_Material" Collapsed="true">
+    <Position X="6" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="_Face" Collapsed="true">
+    <Position X="4" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="_xyz" Collapsed="true">
+    <Position X="6" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="_UVmap" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="_Attributes" Collapsed="true">
+    <Position X="4" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>shader_Utils.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="_Uniforms" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>shader_Utils.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="texType">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Entity.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
